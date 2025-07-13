@@ -1,1 +1,2 @@
 My third file
+New content in third file.
